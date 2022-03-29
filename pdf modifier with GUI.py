@@ -1,3 +1,8 @@
+
+# author = eng mohamed fathi @faci
+# version = 0.01    #need editing
+# email= mohamedfathi11119@gmail.com
+
 import PyPDF2
 from tkinter import *
 from tkinter import messagebox
